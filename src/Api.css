@@ -1,0 +1,15 @@
+.container {
+  font-family: "verdana", arial, helvetica, sans-serif;
+  margin: 20px;
+  width: 100%;
+}
+
+.btn {
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  display: block;
+}
+
